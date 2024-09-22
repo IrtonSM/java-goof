@@ -14,3 +14,6 @@ Alterado por Irton Medina!!!
 Teste GIT!!!
 
 Testando branch protection rule!!!
+
+
+Testando PR Template
