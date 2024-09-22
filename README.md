@@ -11,4 +11,6 @@ It's divided into modules, each one having its own README:
 
 
 Alterado por Irton Medina!!!
-Teste GIT
+Teste GIT!!!
+
+Testando branch protection rule!!!
